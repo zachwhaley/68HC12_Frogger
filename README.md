@@ -24,4 +24,4 @@ It is a remake of the classic Frogger game.
 [Round 2](http://www.youtube.com/watch?v=FhLi9Monf90)
 
 ### Credit
-Portions of our LCD initialization code were heavily influenced from [HC12-Tetris](https://github.com/ckoehler/HC12-Tetris), written by David Ibach and Christopher Koehler.
+Portions of our LCD initialization code were heavily influenced from [HC12-Tetris](https://github.com/ckoehler/HC12-Tetris), written by David Ibach and Christoph Koehler.
